@@ -1,0 +1,7 @@
+[project]
+name = "music-importer"
+version = "0.1.0"
+description = "A tool to export liked songs and playlists between streaming services (Spotify and YouTube)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
